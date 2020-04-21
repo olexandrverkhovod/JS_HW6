@@ -1,0 +1,12 @@
+#reduction1,#reduction2,#sum,#difference{
+    margin-left: 10px;
+    transition: all 1s;
+}
+
+.container {
+    margin-top: 20px;
+    padding-top: 10px;
+    height: 500px;
+    width: 100%;
+    background-color: whitesmoke;
+}
