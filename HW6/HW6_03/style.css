@@ -1,5 +1,4 @@
-#reduction1,#reduction2,#sum,#difference,
-#multiply,#division{
+#print{
     margin-left: 10px;
     transition: all 1s;
 }
